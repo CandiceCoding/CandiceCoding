@@ -31,11 +31,18 @@ Driven by a self-taught passion for technology, I build projects in cybersecurit
 
 <div>
 
-
+<a href="https://education.securiti.ai/verification/1393113D4-139233321-132FF175A/" target="_blank">
   <img src="https://img.shields.io/badge/SeCuriti-Certificate-4CAF50?style=for-the-badge&logo=securiti" 
        alt="SeCuriti Certificate Badge" 
        style="border:0; width:200px; height:auto;">
+
+<a href="https://www.credly.com/badges/d4dfd706-6588-4945-ab0f-88366ed30baf/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Credly-Certificate-blue?style=for-the-badge&logo=credly" alt="Credly Certificate Badge" style="border:0; width:200px; height:auto;">
 </a>
+
+
+
+
 
 
 
