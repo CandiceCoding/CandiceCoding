@@ -57,6 +57,14 @@ Driven by a self-taught passion for technology, I build projects in cybersecurit
   <img src="https://img.shields.io/badge/Oracle-Certified-blue?style=for-the-badge&logo=oracle" alt="Oracle Certification Badge" style="border:0; width:200px; height:auto;">
 </a>
 
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4754324C3A352601B97AEB2D5B822B3234BC73C41ADE997FCCADC0BA2FF58398" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Oracle-Certified-blue?style=for-the-badge&logo=oracle" 
+       alt="Oracle Certification Badge" 
+       style="border:0; width:200px; height:auto;">
+</a>
+
+
+
 
 
 
