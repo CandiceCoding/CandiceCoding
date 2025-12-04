@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hello, I'm Nokuthaba Lima
+www.linkedin.com/in/nokuthaba-lima-5a2189382
 
-<!--
-**CandiceCoding/CandiceCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction]
 
-Here are some ideas to get you started:
+I am a results-oriented Public Management and Governance graduate with a strong professional focus on cybersecurity, cloud technologies, and software quality assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective 
+
+Driven by a self-taught passion for technology, I build projects in cybersecurity, AWS and Oracle multicloud, and software testing. I’m committed to continuous learning and contributing to solutions that strengthen security and support cloud innovation.
+
+## Skills 
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## SIEM
+<div>
+     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />  
+     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+
+<div>
+
+<a href="https://education.securiti.ai/verification/1393113D4-139233321-132FF175A/" target="_blank">
+  <img src="https://img.shields.io/badge/SeCuriti-Certificate-4CAF50?style=for-the-badge&logo=securiti" 
+       alt="SeCuriti Certificate Badge" 
+       style="border:0; width:200px; height:auto;">
+</a>
+
+
+
+  
