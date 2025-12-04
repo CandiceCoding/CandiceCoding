@@ -31,6 +31,14 @@ Driven by a self-taught passion for technology, I build projects in cybersecurit
 
 <div>
 
+<a href="https://www.theforage.com/completion-certificates/CA4pBqsy4b4PdyaBP/4KqDALSkyRNPXjQGa_CA4pBqsy4b4PdyaBP_3RdatwwEksCSHBzPE_1748524036815_completion_certificate.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Forage-Certificate-blue?style=for-the-badge&logo=TheForage" alt="Forage Completion Certificate Badge" style="border:0; width:200px; height:auto;">
+</a>
+
+<a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_3RdatwwEksCSHBzPE_1748006846760_completion_certificate.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Forage-Certificate-blue?style=for-the-badge&logo=theforage" alt="Forage Completion Certificate Badge" style="border:0; width:200px; height:auto;">
+</a>
+
 <a href="https://alison.com/certification/check/83ebb4ce17" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Alison-Certificate-blue?style=for-the-badge&logo=alison" alt="Alison Certificate Badge" style="border:0; width:200px; height:auto;">
 </a>
