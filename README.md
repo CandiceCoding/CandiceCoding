@@ -31,7 +31,7 @@ Driven by a self-taught passion for technology, I build projects in cybersecurit
 
 <div>
 
-<a href="https://education.securiti.ai/verification/1393113D4-139233321-132FF175A/" target="_blank">
+
   <img src="https://img.shields.io/badge/SeCuriti-Certificate-4CAF50?style=for-the-badge&logo=securiti" 
        alt="SeCuriti Certificate Badge" 
        style="border:0; width:200px; height:auto;">
