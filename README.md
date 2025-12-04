@@ -31,6 +31,11 @@ Driven by a self-taught passion for technology, I build projects in cybersecurit
 
 <div>
 
+<a href="https://alison.com/certification/check/83ebb4ce17" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Alison-Certificate-blue?style=for-the-badge&logo=alison" alt="Alison Certificate Badge" style="border:0; width:200px; height:auto;">
+</a>
+
+
 <a href="https://education.securiti.ai/verification/1393113D4-139233321-132FF175A/" target="_blank">
   <img src="https://img.shields.io/badge/SeCuriti-Certificate-4CAF50?style=for-the-badge&logo=securiti" 
        alt="SeCuriti Certificate Badge" 
@@ -39,6 +44,19 @@ Driven by a self-taught passion for technology, I build projects in cybersecurit
 <a href="https://www.credly.com/badges/d4dfd706-6588-4945-ab0f-88366ed30baf/public_url" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Credly-Certificate-blue?style=for-the-badge&logo=credly" alt="Credly Certificate Badge" style="border:0; width:200px; height:auto;">
 </a>
+
+<a href="https://simpli-web.app.link/e/fKn0PCf5DXb" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Simpli‑Web‑Link-Visit-blue?style=for-the-badge&logo=webflow" alt="Simpli Web Link Badge" style="border:0; width:200px; height:auto;">
+</a>
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=26C396833111D70B1962C23BE84430E22CE89833CA40B3EC70DF7D0E1EB64599" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Oracle-Certified-blue?style=for-the-badge&logo=oracle" alt="Oracle Certification Badge" style="border:0; width:200px; height:auto;">
+</a>
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=02B609DC1E62CAEC0DDB1C2E7CD20E688BD212E8752EB177548B679161024115" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Oracle-Certified-blue?style=for-the-badge&logo=oracle" alt="Oracle Certification Badge" style="border:0; width:200px; height:auto;">
+</a>
+
 
 
 
